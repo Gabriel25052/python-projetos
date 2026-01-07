@@ -47,7 +47,8 @@ Gosto de criar sistemas simples, organizados e funcionais, sempre buscando evolu
 🖥️ Aplicação desktop desenvolvida em Python com interface gráfica para gerenciamento de clientes.
 
 ### 🖼️ Interface do Sistema
-![Sistema de Cadastro](images/sistema.png)
+![Sistema de Cadastro](imagens/sistema.png)
+
 
 **Funcionalidades:**
 - Cadastro de clientes (nome, email e telefone)
