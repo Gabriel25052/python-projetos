@@ -21,7 +21,10 @@ Gosto de criar sistemas simples, organizados e funcionais, sempre buscando evolu
 ### 📌 Calculadora Desktop (Tkinter)
 
 🧮 Aplicação de calculadora desenvolvida em Python com interface gráfica.
-![Teste](imagens/calculadora.png)
+<p align="center">
+  <img src="imagens/calculadora.png" width="300">
+</p>
+
 
 **Funcionalidades:**
 - Operações básicas: soma, subtração, multiplicação e divisão
